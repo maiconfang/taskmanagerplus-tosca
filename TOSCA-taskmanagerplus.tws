@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\TOSCA-taskmanagerplus.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\TOSCA-taskmanagerplus\Repository\TOSCA-taskmanagerplus.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a14885d-80df-6bc2-afb6-23697c18cddb</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>c863684f-3054-4759-a9f7-4252e9461f74</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
